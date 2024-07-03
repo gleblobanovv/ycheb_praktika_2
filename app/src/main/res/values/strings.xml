@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Flicks and Snacks</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Products</string>
+    <string name="title_notifications">Movies</string>
+    <string name="hello_blank_fragment">Play Moves</string>
+</resources>

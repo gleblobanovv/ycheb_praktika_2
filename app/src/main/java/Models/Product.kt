@@ -1,0 +1,1 @@
+class Product (val id:Int,val name:String)
